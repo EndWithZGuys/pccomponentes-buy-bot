@@ -674,6 +674,588 @@
       }
     ]
   },
+  "ldlc": {
+    "email": "amador@gmail.com",
+    "password": "mariscosrecio",
+    "items": [
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394604.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00393739.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394595.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394596.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394600.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394608.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398042.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394589.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394590.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394586.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394365.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00400751.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394343.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394357.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394363.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394379.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394373.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394375.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394607.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394151.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00395231.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00408782.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394150.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394602.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394507.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394434.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394436.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394053.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00394060.html"
+      },
+      {
+        "maxPrice": 700,
+        "link": ""
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386907.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386904.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00401655.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00384198.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00384225.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00384232.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386926.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386925.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386030.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386928.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386927.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385465.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385466.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385462.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385463.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385044.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00400752.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00383549.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00384189.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385043.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386014.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386023.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385663.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00393364.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00393363.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00408781.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385048.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00395874.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385046.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00408780.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385045.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385128.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385129.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385126.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385127.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385131.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385132.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00401469.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00383541.html"
+      },
+      {
+        "maxPrice": 800,
+        "link": ""
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00385535.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00375431.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368789.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368844.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369265.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369299.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398046.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369298.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369268.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369303.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398045.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386063.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00390727.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369150.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369158.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00376208.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00390466.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00400753.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369072.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368968.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00376207.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391624.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368691.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368692.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368690.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368931.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368574.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391682.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368506.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386334.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386332.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369094.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00375448.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00375625.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00368579.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00375644.html"
+      },
+      {
+        "maxPrice": 1200,
+        "link": ""
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369842.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374911.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00369849.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374837.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374838.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398037.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398044.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374629.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374628.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374631.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00398039.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00390729.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00390227.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00370903.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00370913.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00376302.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00390730.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00400756.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00371132.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00371131.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391621.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00386908.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374614.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00371280.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391541.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374606.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00407277.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00371133.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391683.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00370065.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00370057.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00389189.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00391625.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374912.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00374914.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00401472.html"
+      },
+      {
+        "maxPrice": 1800,
+        "link": "https://www.ldlc.com/es-es/ficha/PB00370250.html"
+      }
+    ]
+  },
   "onlyOneBuy": true,
   "debug": false,
   "test": false,
